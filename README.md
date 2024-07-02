@@ -6,8 +6,8 @@
 </div>
 
 <div align="center">
-  <a href="https://wa.me/+212690951001" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=WhatsApp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="37" alt="WhatsApp logo" />
+  <a href="https://t.me/+212690951001" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="38.5" alt="Telegram logo" />
   </a>
   <br>
   <a href="https://developreoussama.vercel.app/" target="_blank">
