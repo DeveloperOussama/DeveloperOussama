@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="38.5" alt="Telegram logo" />
   </a>
   <br>
-  <a href="https://developreoussama.vercel.app/" target="_blank">
+  <a href="https://oussamaweb.vercel.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=My%20Website&logo=link&label=&color=663399&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="Website logo" />
   </a>
   <br>
