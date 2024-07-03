@@ -7,7 +7,7 @@
 
 <div align="center">
   <a href="https://t.me/+212690951001" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=link&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="38.5" alt="Telegram logo" />
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=link&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="Telegram logo" />
   </a>
   <br>
   <a href="https://oussamaweb.vercel.app/" target="_blank">
