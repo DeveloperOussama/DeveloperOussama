@@ -1,19 +1,23 @@
-<img style="width:100%" src="https://capsule-render.vercel.app/api?type=waving&height=117&color=663399&section=header&reversal=false">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Playwrite+Deutschland+Grundschrift&size=40&height=100&pause=1000&color=663399&center=true&multiline=true&random=false&width=1000&lines=Welcome+To+My+Github" alt="SVG" /></a>
+<img style="width:100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=663399&section=header&descAlign=100&descAlignY=100" alt="OUSSAMA Header" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Archivo&weight=500&size=45&letterSpacing=1&duration=6000&center=true&pause=1000&color=663399&multiline=true&random=false&width=1000&height=150&lines=Welcome+To+My+GitHub+Repository" alt="Typing SVG" />
 
 <div align="center">
   <img src="https://github.com/DeveloperOussama/DeveloperOussama/blob/main/zozo.jpg" style="width:100%" alt="logo">
 </div>
 
+
 <div align="center">
-  <a href="https://t.me/+212690951001" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=link&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="45" alt="Telegram logo" />
-  </a>
-  <br>
-  <a href="https://oussamaweb.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=My+Website&logo=link&label=&color=663399&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="Website logo" />
-  </a>
-  <br>
+  <div style="display: inline-block;">
+    <a href="https://t.me/+212690951001" target="_blank" style="text-decoration: none;">
+      <img src="https://img.shields.io/static/v1?font=Archivo&message=Telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="45" alt="Telegram logo" />
+    </a>
+  </div>
+      <div style="display: inline-block;">
+    <a href="https://oussamaweb.vercel.app/" target="_blank" style="text-decoration: none;">
+      <img src="https://img.shields.io/static/v1?font=Archivo&message=My+Website&label=&color=663399&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="Website logo" />
+    </a>
+  </div>
 </div>
 
 
@@ -22,7 +26,7 @@
  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Smileys/Alien.webp" alt="Alien" width="200" />
 </div>
 
-
+<br><br><br><br><br><br>
 <div align="center">
   <img src="https://profile-counter.glitch.me/DeveloperOussama/count.svg?"  />
 </div>
