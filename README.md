@@ -8,12 +8,7 @@
 
 
 <div align="center">
-  <div style="display: inline-block;">
-    <a href="https://t.me/+212690951001" target="_blank" style="text-decoration: none;">
-      <img src="https://img.shields.io/static/v1?font=Archivo&message=Telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="45" alt="Telegram logo" />
-    </a>
-  </div>
-      <div style="display: inline-block;">
+    <div style="display: inline-block;">
     <a href="https://oussamaweb.vercel.app/" target="_blank" style="text-decoration: none;">
       <img src="https://img.shields.io/static/v1?font=Archivo&message=My+Website&label=&color=663399&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="Website logo" />
     </a>
