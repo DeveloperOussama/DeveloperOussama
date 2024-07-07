@@ -26,3 +26,5 @@
   <img src="https://profile-counter.glitch.me/DeveloperOussama/count.svg?"  />
 </div>
 
+
+<img style="width:100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=663399&section=footer&descAlign=100&descAlignY=100" alt="OUSSAMA Footer" />
