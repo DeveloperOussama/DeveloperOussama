@@ -18,7 +18,7 @@
 
 
 <div align="center">
- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Smileys/Alien.webp" alt="Alien" width="200" />
+ <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Smileys/Alien%20Monster.webp" alt="Alien Monster" width="120" height="120" />
 </div>
 
 <br><br><br><br><br><br>
