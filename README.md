@@ -15,17 +15,18 @@
   </div>
 </div>
 
-<br><br><br>
+<br>
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Backhand%20Index%20Pointing%20Left.webp" alt="Backhand Index Pointing Left" height="180" />
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Animals%20and%20Nature/High%20Voltage.webp" alt="High Voltage"  height="180" />
 </div>
 
-<br><br><br>
+<br>
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/DeveloperOussama/count.svg?"  />
 </div>
 
+<br><br><br>
 
 <img style="width:100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=663399&section=footer&descAlign=100&descAlignY=100" alt="OUSSAMA Footer" />
