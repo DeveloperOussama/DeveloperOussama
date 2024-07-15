@@ -27,6 +27,13 @@
   <img src="https://profile-counter.glitch.me/DeveloperOussama/count.svg?"  />
 </div>
 
+<br>
+
+
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
 <br><br><br>
 
 <img style="width:100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=663399&section=footer&descAlign=100&descAlignY=100" alt="OUSSAMA Footer" />
