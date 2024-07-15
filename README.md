@@ -29,11 +29,13 @@
 
 <br>
 
+
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" alt="HTML" width="70" height="70">
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" alt="CSS" width="70" height="70">
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" alt="JavaScript" width="70" height="70">
 </p>
+
 
 <br><br><br>
 
